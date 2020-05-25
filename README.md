@@ -1,2 +1,2 @@
-# amortiguadoresanalia
-Mi repositorio para la pagina de Amortiguadores
+# amortiguadoresPindonga
+Repo para practicar el compartir el desarrollo
